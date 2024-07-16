@@ -628,7 +628,7 @@ PyMySQL>=0.9.3
 pexpect
 python-memcached
 cython==0.29.15
-numpy==1.23.3
+numpy
 vmware-nsx
 
 # PF9: Ironic
