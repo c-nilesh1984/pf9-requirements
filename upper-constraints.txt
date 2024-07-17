@@ -629,7 +629,7 @@ pexpect
 python-memcached
 cython==0.29.15
 numpy
-vmware-nsx
+vmware-nsx==17.0.0
 
 # PF9: Ironic
 python-ironicclient
